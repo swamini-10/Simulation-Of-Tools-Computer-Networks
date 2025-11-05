@@ -6,22 +6,22 @@ To understand and simulate the working of File Transfer Protocol (FTP) and imple
 
 Features:
 
-Created a custom FTP server for secure file sharing.
+1.Created a custom FTP server for secure file sharing.
 
-Implemented IP blocking to restrict unauthorized access.
+2.Implemented IP blocking to restrict unauthorized access.
 
-Demonstrated real-time connection setup and file transfer.
+3.Demonstrated real-time connection setup and file transfer.
 
 Tools:
 
-FTP protocol setup
+1.FTP protocol setup
 
-Network simulation environment-FileZilla
+2.Network simulation environment-FileZilla
 
-IP configuration and access control
+3.IP configuration and access control
 
 Learning Outcomes
 
-Gained practical understanding of FTP communication.
+1.Gained practical understanding of FTP communication.
 
-Learned how to block and manage IP access.
+2.Learned how to block and manage IP access.
